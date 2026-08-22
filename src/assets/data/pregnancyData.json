@@ -1,0 +1,67 @@
+[
+  {
+    "id": "week-12-16",
+    "range": "12 ~ 16週",
+    "minWeek": 12,
+    "maxWeek": 16,
+    "items": [
+      { "he_pregnancy_id": "PG001", "title": "各孕期不適症狀處理", "link": "https://ihealth.vghtc.gov.tw/media/443", "checked": false },
+      { "he_pregnancy_id": "PG002", "title": "孕期中出血的介紹", "link": "https://ihealth.vghtc.gov.tw/media/451", "checked": false },
+      { "he_pregnancy_id": "PG003", "title": "心臟病孕婦自我照顧", "link": "https://ihealth.vghtc.gov.tw/media/502", "checked": false },
+      { "he_pregnancy_id": "PG004", "title": "認識早期破水", "link": "https://ihealth.vghtc.gov.tw/media/504", "checked": false }
+    ]
+  },
+  {
+    "id": "week-16-20",
+    "range": "16 ~ 20週",
+    "minWeek": 16,
+    "maxWeek": 20,
+    "items": [
+      { "he_pregnancy_id": "PG005", "title": "早產防治、須立即就醫之危險徵兆", "link": "https://ihealth.vghtc.gov.tw/media/605", "checked": false },
+      { "he_pregnancy_id": "PG006", "title": "哺餵母乳衛教", "link": "https://ihealth.vghtc.gov.tw/media/648", "checked": false },
+      { "he_pregnancy_id": "PG007", "title": "認識妊娠高血壓", "link": "https://ihealth.vghtc.gov.tw/media/449", "checked": false }
+    ]
+  },
+  {
+    "id": "week-20-28",
+    "range": "20 ~ 28週",
+    "minWeek": 20,
+    "maxWeek": 28,
+    "items": [
+      { "he_pregnancy_id": "PG008", "title": "肌膚接觸重要性", "link": "https://ihealth.vghtc.gov.tw/media/844", "checked": false },
+      { "he_pregnancy_id": "PG009", "title": "親子同室的重要性", "link": "https://ihealth.vghtc.gov.tw/media/440", "checked": false },
+      { "he_pregnancy_id": "PG010", "title": "親子共讀", "link": "https://ihealth.vghtc.gov.tw/media/648", "checked": false },
+      { "he_pregnancy_id": "PG011", "title": "妊娠糖尿病的介紹", "link": "https://ihealth.vghtc.gov.tw/media/450", "checked": false }
+    ]
+  },
+  {
+    "id": "week-28-32",
+    "range": "28 ~ 32週",
+    "minWeek": 28,
+    "maxWeek": 32,
+    "items": [
+      { "he_pregnancy_id": "PG012", "title": "揮別黑白哺乳人生", "link": "https://ihealth.vghtc.gov.tw/media/860", "checked": false }
+    ]
+  },
+  {
+    "id": "week-32-36",
+    "range": "32 ~ 36週",
+    "minWeek": 32,
+    "maxWeek": 36,
+    "items": [
+      { "he_pregnancy_id": "PG013", "title": "認識產兆", "link": "https://ihealth.vghtc.gov.tw/media/861", "checked": false },
+      { "he_pregnancy_id": "PG014", "title": "嬰兒安全睡眠", "link": "https://ihealth.vghtc.gov.tw/media/1979", "checked": false },
+      { "he_pregnancy_id": "PG015", "title": "汽車安全座椅使用的重要性", "link": "https://ihealth.vghtc.gov.tw/media/1980", "checked": false }
+    ]
+  },
+  {
+    "id": "week-36-40",
+    "range": "36 ~ 40週",
+    "minWeek": 36,
+    "maxWeek": 40,
+    "items": [
+      { "he_pregnancy_id": "PG016", "title": "產兆及待產用物準備", "link": "https://ihealth.vghtc.gov.tw/media/400", "checked": false },
+      { "he_pregnancy_id": "PG017", "title": "脹奶及乳房腫脹處理", "link": "https://ihealth.vghtc.gov.tw/media/515", "checked": false }
+    ]
+  }
+]

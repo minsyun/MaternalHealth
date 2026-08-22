@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "text": "我能看到事物有趣的一面，並笑得開心",
+    "selectedVal": null,
+    "options": [
+      { "value": 0, "text": "同以前一樣" },
+      { "value": 1, "text": "沒有以前那麼多" },
+      { "value": 2, "text": "肯定比以前少" },
+      { "value": 3, "text": "完全不能" }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "我欣然期待未來的一切",
+    "selectedVal": null,
+    "options": [
+      { "value": 0, "text": "同以前一樣" },
+      { "value": 1, "text": "沒有以前那麼多" },
+      { "value": 2, "text": "肯定比以前少" },
+      { "value": 3, "text": "完全不能" }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "當事情出錯時，我會不必要地責備自己",
+    "selectedVal": null,
+    "options": [
+      { "value": 3, "text": "相當多時候這樣" },
+      { "value": 2, "text": "有時候這樣" },
+      { "value": 1, "text": "很少這樣" },
+      { "value": 0, "text": "沒有這樣" }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "我無緣無故感到焦慮和擔心",
+    "selectedVal": null,
+    "options": [
+      { "value": 3, "text": "相當多時候這樣" },
+      { "value": 2, "text": "有時候這樣" },
+      { "value": 1, "text": "很少這樣" },
+      { "value": 0, "text": "沒有這樣" }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "我無緣無故感到害怕和驚慌",
+    "selectedVal": null,
+    "options": [
+      { "value": 3, "text": "相當多時候這樣" },
+      { "value": 2, "text": "有時候這樣" },
+      { "value": 1, "text": "很少這樣" },
+      { "value": 0, "text": "沒有這樣" }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "事情壓著我透不過氣",
+    "selectedVal": null,
+    "options": [
+      { "value": 3, "text": "大多數時候我都不能應付" },
+      { "value": 2, "text": "有時我不能像平時應付得好" },
+      { "value": 1, "text": "大部分時候我能像平時應付得好" },
+      { "value": 0, "text": "我一直能應付得好" }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "我很不開心，以致失眠",
+    "selectedVal": null,
+    "options": [
+      { "value": 3, "text": "相當多時候這樣" },
+      { "value": 2, "text": "有時候這樣" },
+      { "value": 1, "text": "很少這樣" },
+      { "value": 0, "text": "沒有這樣" }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "我感到難過和悲傷",
+    "selectedVal": null,
+    "options": [
+      { "value": 3, "text": "相當多時候這樣" },
+      { "value": 2, "text": "有時候這樣" },
+      { "value": 1, "text": "很少這樣" },
+      { "value": 0, "text": "沒有這樣" }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "我不開心到哭",
+    "selectedVal": null,
+    "options": [
+      { "value": 3, "text": "相當多時候這樣" },
+      { "value": 2, "text": "有時候這樣" },
+      { "value": 1, "text": "很少這樣" },
+      { "value": 0, "text": "沒有這樣" }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "我想過要傷害自己",
+    "selectedVal": null,
+    "options": [
+      { "value": 3, "text": "相當多時候這樣" },
+      { "value": 2, "text": "有時候這樣" },
+      { "value": 1, "text": "很少這樣" },
+      { "value": 0, "text": "沒有這樣" }
+    ]
+  }
+]

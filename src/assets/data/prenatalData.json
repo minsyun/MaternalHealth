@@ -1,0 +1,148 @@
+[
+  { 
+    "id": 1, 
+    "week": "8 - 13 + 6週", 
+    "minWeek": 8,                
+    "maxWeek": 13,               
+    "content": "早期子癇前症篩檢 + 子宮動脈血流量測", 
+    "link": "https://www.vghtc.gov.tw/UnitPage/RowViewDetail?WebRowsID=6136e0c5-61e2-4e29-9254-65c942d2ca82&UnitID=349b6142-4637-4356-8a17-a553d01d0b52&CompanyID=e8e0488e-54a0-44bf-b10c-d029c423f6e7&UnitDefaultTemplate=1",
+    "isOpen": false 
+  },
+  { 
+    "id": 2, 
+    "week": "11 - 13 + 6週", 
+    "minWeek": 11,                
+    "maxWeek": 13,
+    "content": "第一孕期母血唐氏症篩檢", 
+    "link": "https://www.vghtc.gov.tw/UnitPage/RowViewDetail?WebRowsID=610672ce-8b46-472e-87fd-a2d5b670a5b0&UnitID=349b6142-4637-4356-8a17-a553d01d0b52&CompanyID=e8e0488e-54a0-44bf-b10c-d029c423f6e7&UnitDefaultTemplate=1",
+    "isOpen": false 
+  },
+  { 
+    "id": 3, 
+    "week": "≧11週", 
+    "minWeek": 11,                
+    "content": "非侵入性染色體篩檢NIPS", 
+    "link": "https://www.vghtc.gov.tw/UnitPage/RowViewDetail?WebRowsID=03d10c24-5549-42b9-81ec-11116af79a42&UnitID=349b6142-4637-4356-8a17-a553d01d0b52&CompanyID=e8e0488e-54a0-44bf-b10c-d029c423f6e7&UnitDefaultTemplate=1",
+    "isOpen": false 
+  },
+  { 
+    "id": 4, 
+    "week": "12週 ", 
+    "minWeek": 12,                
+    "maxWeek": 12, 
+    "content": "超音波檢查、血液常規、尿液常規、愛滋病篩檢、B型肝炎檢查、梅毒血清試驗、德國麻疹抗體檢查、子宮頸抹片檢查", 
+    "link": "https://www.vghtc.gov.tw/UnitPage/RowViewDetail?WebRowsID=4a463034-b9a0-4709-a5d5-01b9c76c8871&UnitID=349b6142-4637-4356-8a17-a553d01d0b52&CompanyID=e8e0488e-54a0-44bf-b10c-d029c423f6e7&UnitDefaultTemplate=1",
+    "isOpen": false 
+  },
+  { 
+    "id": 5, 
+    "week": "12 - 16週", 
+    "minWeek": 12,                
+    "maxWeek": 16, 
+    "content": "早孕期胎兒結構發展評估 (單胞胎，需預約)", 
+    "link": "https://www.vghtc.gov.tw/UnitPage/RowViewDetail?WebRowsID=b9f96063-13f4-4d7d-84da-bb4769f55285&UnitID=349b6142-4637-4356-8a17-a553d01d0b52&CompanyID=e8e0488e-54a0-44bf-b10c-d029c423f6e7&UnitDefaultTemplate=1",
+    "isOpen": false 
+  },
+  { 
+    "id": 6, 
+    "week": "15 - 20週", 
+    "minWeek": 15,                
+    "maxWeek": 20, 
+    "content": "第二孕期母血唐氏症篩檢", 
+    "link": "https://www.vghtc.gov.tw/UnitPage/RowViewDetail?WebRowsID=617d2450-e735-4925-a510-329d2967eccc&UnitID=349b6142-4637-4356-8a17-a553d01d0b52&CompanyID=e8e0488e-54a0-44bf-b10c-d029c423f6e7&UnitDefaultTemplate=1",
+    "isOpen": false 
+  },
+  { 
+    "id": 7, 
+    "week": "≧16週",
+    "minWeek": 16,                 
+    "content": "羊膜穿刺(需預約)、羊水晶片檢測(Array CGH)", 
+    "link": "https://www.vghtc.gov.tw/UnitPage/UnitContentView?WebMenuID=4fb5d8c2-3896-4353-8507-836bb762f0f9&UnitID=adaf167e-fe3e-4956-8ba5-6571087eed85&UnitDefaultTemplate=1",
+    "isOpen": false 
+  },
+  { 
+    "id": 8, 
+    "week": "20 - 22週", 
+    "minWeek": 20,                
+    "maxWeek": 22, 
+    "content": "高層次彩色超音波 (含胎兒心臟超音波，需預約)", 
+    "link": "https://www.vghtc.gov.tw/UnitPage/RowViewDetail?WebRowsID=a77564ff-6a16-467c-a462-21128841e7bd&UnitID=349b6142-4637-4356-8a17-a553d01d0b52&CompanyID=e8e0488e-54a0-44bf-b10c-d029c423f6e7&UnitDefaultTemplate=1",
+    "isOpen": false 
+  },
+  { 
+    "id": 9, 
+    "week": "24 - 28週", 
+    "minWeek": 24,                
+    "maxWeek": 28, 
+    "subItems": [
+      {
+        "title": "貧血檢驗及血小板計數",
+        "url": "https://www.vghtc.gov.tw/UnitPage/RowViewDetail?WebRowsID=4a463034-b9a0-4709-a5d5-01b9c76c8871&UnitID=349b6142-4637-4356-8a17-a553d01d0b52&CompanyID=e8e0488e-54a0-44bf-b10c-d029c423f6e7&UnitDefaultTemplate=1"
+      },
+      {
+        "title": "75公克妊娠糖尿病篩檢",
+        "url": "https://www.vghtc.gov.tw/UnitPage/RowViewDetail?WebRowsID=4a463034-b9a0-4709-a5d5-01b9c76c8871&UnitID=349b6142-4637-4356-8a17-a553d01d0b52&CompanyID=e8e0488e-54a0-44bf-b10c-d029c423f6e7&UnitDefaultTemplate=1"
+      }
+    ],
+    "isOpen": false 
+  },
+  { 
+    "id": 10, 
+    "week": "28 - 32週", 
+    "minWeek": 28,                
+    "maxWeek": 32, 
+    "content": "梅毒血清試驗", 
+    "link": "https://www.vghtc.gov.tw/UnitPage/RowViewDetail?WebRowsID=4a463034-b9a0-4709-a5d5-01b9c76c8871&UnitID=349b6142-4637-4356-8a17-a553d01d0b52&CompanyID=e8e0488e-54a0-44bf-b10c-d029c423f6e7&UnitDefaultTemplate=1",
+    "isOpen": false 
+  },
+  { 
+    "id": 11, 
+    "week": "35 - 37週", 
+    "minWeek": 35,                
+    "maxWeek": 37, 
+    "content": "乙型鏈球菌篩檢", 
+    "link": "https://www.vghtc.gov.tw/UnitPage/RowViewDetail?WebRowsID=4a463034-b9a0-4709-a5d5-01b9c76c8871&UnitID=349b6142-4637-4356-8a17-a553d01d0b52&CompanyID=e8e0488e-54a0-44bf-b10c-d029c423f6e7&UnitDefaultTemplate=1",
+    "isOpen": false 
+  },
+  { 
+    "id": 12, 
+    "week": "所有週數", 
+    "subItems": [
+      {
+        "title": "脊髓肌肉萎縮症帶因篩檢(不限胎次，只需檢測一次)",
+        "url": "https://www.vghtc.gov.tw/UnitPage/RowViewDetail?WebRowsID=db0af018-1803-400a-84f0-0f3900b6bf12&UnitID=349b6142-4637-4356-8a17-a553d01d0b52&CompanyID=e8e0488e-54a0-44bf-b10c-d029c423f6e7&UnitDefaultTemplate=1"
+      },
+      {
+        "title": "X染色體脆折症帶因篩檢(不限胎次，只需檢測一次)",
+        "url": "https://www.vghtc.gov.tw/UnitPage/RowViewDetail?WebRowsID=14f9ad16-7530-461a-a675-b2bd580d0463&UnitID=349b6142-4637-4356-8a17-a553d01d0b52&CompanyID=e8e0488e-54a0-44bf-b10c-d029c423f6e7&UnitDefaultTemplate=1"
+      },
+      {
+        "title": "擴大型帶因篩檢(包括脊髓肌肉萎縮症、X染色體脆折症篩檢、地中海型貧血及聽損疾病，不限胎次，只需檢測一次)",
+        "url": "https://www.vghtc.gov.tw/UnitPage/RowViewDetail?WebRowsID=e6138c4b-c9a1-4416-bcf0-88e2bf7fc39a&UnitID=349b6142-4637-4356-8a17-a553d01d0b52&CompanyID=e8e0488e-54a0-44bf-b10c-d029c423f6e7&UnitDefaultTemplate=1"
+      }
+    ],
+    "isOpen": false
+  },
+  { 
+    "id": 13, 
+    "week": "依臨床需求", 
+    "content": "胎兒心臟與血流高階檢查(需預約)、破水快速檢測試劑、中晚期子癇前症篩檢", 
+    "link": "https://www.vghtc.gov.tw/UnitPage/RowViewDetail?WebRowsID=6136e0c5-61e2-4e29-9254-65c942d2ca82&UnitID=349b6142-4637-4356-8a17-a553d01d0b52&CompanyID=e8e0488e-54a0-44bf-b10c-d029c423f6e7&UnitDefaultTemplate=1",
+    "isOpen": false 
+  },
+  { 
+    "id": 14, 
+    "week": "親子教室", 
+    "subItems": [
+      {
+        "title": "產前親子教室 (建議24週以後攜伴參與)",
+        "url": "https://www.vghtc.gov.tw/UnitPage/RowViewDetail?WebRowsID=972d92b2-b54c-4337-9b14-753f5fc4421a&UnitID=349b6142-4637-4356-8a17-a553d01d0b52&CompanyID=e8e0488e-54a0-44bf-b10c-d029c423f6e7&UnitDefaultTemplate=1"
+      },
+      {
+        "title": "中榮母乳會",
+        "url": "https://www.vghtc.gov.tw/UnitPage/RowViewDetail?WebRowsID=8849b38c-2409-4572-ad8d-58528a71b757&UnitID=349b6142-4637-4356-8a17-a553d01d0b52&CompanyID=e8e0488e-54a0-44bf-b10c-d029c423f6e7&UnitDefaultTemplate=1"
+      }
+    ],
+    "isOpen": false 
+  }
+]
