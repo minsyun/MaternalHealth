@@ -1,17 +1,16 @@
 # 孕產婦健康管理系統
 ## 專題動機
 ### 背景 
-孕產婦懷孕大約需經歷長達40週的生理變化，為了確保媽媽和嬰兒的健康，必須進行定期的醫院回診與健康紀錄，在標準的產檢作業流程中，通常由護理人員進行初步問診開始（如媽媽教室），協助收集並記錄孕婦的最後一次月經(LMP)、第幾胎等，並計算出預產期(EDC)，接著醫師會依照孕週產檢進行對應的身體檢查、超音波測量，並參考各項紀錄判斷胎兒的發育與孕婦的健康狀況。而這些產檢資料會記錄在台灣衛生福利部發行的「孕婦健康手冊」(媽媽手冊)中，它長期扮演記錄孕期資訊的重要角色，也是孕婦與醫護之間的溝通工具。 
+孕婦在懷孕期間約需經歷40週的生理變化，為了確保媽媽和嬰兒的健康，必須進行定期的醫院回診與健康紀錄，在標準的產檢作業流程中，通常由護理人員進行初步問診開始（如媽媽教室），協助收集並記錄孕婦的最後一次月經(LMP)、第幾胎等，並計算出預產期(EDC)，接著醫師會依照孕週產檢進行對應的身體檢查、超音波測量，並參考各項紀錄判斷胎兒的發育與孕婦的健康狀況。而這些產檢資料會記錄在台灣衛生福利部發行的「孕婦健康手冊」(媽媽手冊)中，它長期扮演記錄孕期資訊的重要角色，也是孕婦與醫護之間的溝通工具。 
 ### 動機 
-目前臺中榮民總醫院的產檢流程中，孕產婦需在看診前，前往特定地點（如醫院哺乳室中的電腦）填寫自我評估表單，對於許多孕產婦來說不僅填寫流程耗時且容易耽誤看診。此外目前醫院提供的產檢資訊及衛教資訊皆以宣傳單(紙張)為主，且缺乏
-依照懷孕週數的個別化服務，容易有紙本資料保存不易與不方便的迴響。因此主要是希望改善上述需求，其次是提供孕產婦更便利的產檢流程及收取較完整的懷孕相關資訊。本專題致力於將繁瑣的行政與健康管理流程電子化。
+目前臺中榮民總醫院的產檢流程中，孕產婦需在看診前，前往特定地點（如醫院哺乳室中的電腦）填寫自我評估表單，對於許多孕產婦來說不僅填寫流程耗時且容易耽誤看診。此外目前醫院提供的產檢資訊及衛教資訊皆以宣傳單(紙張)為主，且缺乏依照懷孕週數的個別化服務，容易造成紙本資料保存不易、查閱不便等問題。因此主要是希望改善上述需求，其次是提供孕產婦更便利的產檢流程及取得較完整的懷孕相關資訊。本專題致力於將繁瑣的行政與健康管理流程電子化。
 ***
 ## 專題簡介
 - 使用對象：於臺中榮民總醫院之接受產檢的孕婦 
-- 專題目標：希望改善孕期中繁瑣的行政與健康管理流程，透過電子化、RWD響應式網頁的設計，提供一站式的數位服務。主要功能涵蓋產檢報告即時查閱、依週數推播的產檢日期與衛教資訊提醒、孕產婦心理健康的線上評估與追蹤以及行事曆功能。藉此，系統能有效地協助孕產婦全程掌握身心健康狀態，大幅提升孕期管理的效率與舒適度。
+- 專題目標：希望改善孕期中繁瑣的行政與健康管理流程，透過電子化與RWD（Responsive Web Design，響應式網頁設計），提供一站式的數位服務。主要功能涵蓋產檢報告即時查閱、依週數推播的產檢日期與衛教資訊提醒、孕產婦心理健康的線上評估與追蹤以及行事曆功能。藉此，系統能有效地協助孕產婦全程掌握身心健康狀態，大幅提升孕期管理的效率與舒適度。
 ***
 ## 系統功能
-本系統針對孕產婦需求，規劃了以下五大核心功能： 
+本系統針對孕產婦需求，規劃了以下六大核心功能： 
 1. 登入登出
      1. 登入資料為身分證字號與手機號碼
      2. 登入驗證成功會傳送一次性驗證碼（OTP）到Gmail，並跳轉至驗證碼頁面，驗證成功後即可進入首頁
@@ -28,7 +27,7 @@
 5. 自我評估專區 
     1. 將「產前健康照護衛教指導紀錄表」與「愛丁堡產後憂鬱量表」電子化，孕婦可於候診時用手機填寫，避免佔用到看診、檢查時間。方便醫院端追蹤孕產婦的心理狀況。
     2. 將顯示歷史填寫紀錄及填寫內容，紀錄填寫內容變化。 
-6. 孕育時光表（行事曆與日記），負責此部分 
+6. 孕育時光表（行事曆與日記）
     1. 結合行事曆功能，自動帶入產檢行程，協助孕媽媽紀錄與查看檢查時程。
     2. 提供撰寫日記功能，孕婦可上傳超音波照片或生活照，記錄懷孕期間的心情與身體變化
 ***
@@ -38,7 +37,7 @@
 1. **前端(Frontend/Client Side)** 
 - 提供使用者介面，讓使用者可以輸入資料、進行操作。 
 - 可以使用網頁瀏覽器作為前端平台。 
-- 負責將使用者詩入的資料傳送給後端伺服器，並且呈現伺服器回傳的結果。 
+- 負責將使用者輸入的資料傳送給後端伺服器，並且呈現伺服器回傳的結果。 
 - 技術：HTML、CSS、JS、Vue.js 
 
 2. **後端(Backend/Server Side)**
@@ -50,22 +49,135 @@
 - 由伺服器端透過SQL進行操作。 
 - 使用MySQL
 ***
+## 專案結構
+```text
+MaternalHealthManagementSystem/
+│
+├── back-end/                    # 後端服務（一）
+│   ├── middleware/              # 驗證與請求處理 Middleware
+│   ├── db.js                    # 資料庫連線
+│   ├── server.js                # 後端伺服器啟動程式
+│   ├── package.json
+│   └── package-lock.json
+│
+├── backend/                     # 後端服務（二）
+│   ├── controllers/             # API / 業務邏輯
+│   ├── db/                      # 資料庫相關模組
+│   ├── middleware/              # Middleware
+│   ├── index.js                 # 後端程式進入點
+│   ├── package.json
+│   └── package-lock.json
+│
+├── back_end/                    # 後端服務（三）
+|   ├── middleware/              # Middleware
+|   ├── db.js                    # 資料庫連線
+|   ├── server.js                # 後端伺服器啟動程式
+│   ├── package.json
+│   └── package-lock.json
+│
+├── src/                         # 前端主要程式碼
+│
+├── public/                      # 靜態資源
+│
+├── temp/                        # 專案暫存資料
+│
+├── .vscode/                     # VS Code 開發環境設定
+├── index.html                   # 前端頁面入口
+├── index.js                     # JavaScript 入口
+├── package.json                 # 前端套件與專案設定
+├── package-lock.json            # npm 套件版本鎖定
+├── vite.config.js               # Vite 開發環境設定
+├── .gitignore                   # Git 忽略檔案設定
+└── README.md                    # 專案說明文件
+```
+***
 ## 使用技術、工具與軟體 
 | 類別 | 技術、工具 |
 |---|---|
-前端 | HTML、CSS、JS、Vue.js (Vue3 + Vite) 
-後端 | Node.js 
-API框架 | Express 
-資料庫 | MySQL 
-版本控制 | GitHub 
-設計工具 | Canva、Whimsical、Draw.io 
-開發環境 | Visual Studio Code 
-建模工具 | Astah UML 
-其他 | Cloudinary-雲端媒體管理平台、JWT、AI工具(Claude、Gemini、ChatGPT) 
+| 前端 | HTML、CSS、JS、Vue.js| 
+| 後端 | Node.js、Express、JWT | 
+| 資料庫 | MySQL | 
+| 版本控制 | GitHub | 
+| 設計工具 | Canva、Whimsical、Draw.io | 
+| 開發環境 | Visual Studio Code | 
+| 建模工具 | Astah UML | 
+| 其他 | Cloudinary（雲端媒體管理平台）AI工具(Claude、Gemini、ChatGPT) | 
+| AI 輔助工具 | Claude、Gemini、ChatGPT | 
 ***
 ## 系統畫面
-## 團隊分工
+#### 登入資料輸入
+<img width="798" height="374" alt="image" src="https://github.com/user-attachments/assets/442df7bc-adee-4a39-8730-d36c3b256fe5" />
+
+#### 驗證信件
+<img width="805" height="326" alt="image" src="https://github.com/user-attachments/assets/a2c8d9f9-0757-43b8-a3d7-1391dd41c293" />
+
+#### 通知
+<img width="865" height="412" alt="image" src="https://github.com/user-attachments/assets/504474a2-d76b-47c8-aa71-2a722002f461" />
+
+#### 首頁
+<img width="865" height="412" alt="image" src="https://github.com/user-attachments/assets/881d1cfe-2c01-4cc7-bce0-4e6daeb02ab3" />
+
+#### 個人資料
+<img width="865" height="411" alt="image" src="https://github.com/user-attachments/assets/cfa21575-6aa1-4dd1-b5fc-8f937ff6eed7" />
+
+#### 產檢資料專區
+<img width="865" height="411" alt="image" src="https://github.com/user-attachments/assets/9fed7fa7-3051-4ecd-bf9b-63858b7fde08" />
+
+#### 衛教資訊專區
+<img width="864" height="469" alt="image" src="https://github.com/user-attachments/assets/7cdd7fb4-fbd0-49d1-b706-051e69cdaa17" />
+<img width="864" height="480" alt="image" src="https://github.com/user-attachments/assets/2d0f137f-e40d-4a25-9da8-296022146583" />
+<img width="864" height="478" alt="image" src="https://github.com/user-attachments/assets/7c2f7a8e-adf9-46a4-a055-bbcdb15948e8" />
+
+
+
+#### 自我評估專區
+<img width="864" height="466" alt="image" src="https://github.com/user-attachments/assets/7aacb436-20e3-4cbc-b125-ee969096fcad" />
+<img width="864" height="475" alt="image" src="https://github.com/user-attachments/assets/fe9fa54d-3962-4bf7-ae28-fbce615f1e3d" />
+<img width="864" height="458" alt="image" src="https://github.com/user-attachments/assets/97b04c62-5166-415c-94a4-82995a3c4f2b" />
+
+
+
+#### 孕育時光表
+<img width="865" height="471" alt="image" src="https://github.com/user-attachments/assets/365b04b5-d264-4c8a-b32f-457c81e26043" />
+<img width="865" height="464" alt="image" src="https://github.com/user-attachments/assets/39a677d6-18e2-4720-b780-0d31b60e6379" />
+<img width="865" height="466" alt="image" src="https://github.com/user-attachments/assets/be38f9bb-03e9-4e97-8176-faa182e60e0c" />
+<img width="855" height="435" alt="image" src="https://github.com/user-attachments/assets/58540ea3-31aa-4a78-99e5-f48b7225688f" />
+
+
+***
+## 團隊成員
+本專題由3人共同開發，系統功能由團隊共同討論與設計，實作階段則依功能模組進行分工，各自負責不同功能的開發與整合。 
+| 成員 | 負責部分 |
+|---|---|
+|蕭閔薰 | 孕育時光表、首頁行事曆 |
+|簡婕恩 | 登入、首頁、產檢資料專區、個人資料 |
+|徐智萱 | 衛教專區、自我評估專區 |
 ### 我的主要貢獻
+主要負責「孕育時光表」模組，以及部分共用系統功能的開發與整合，具體工作包含：
+- **孕育時光表功能開發**
+  - 負責行事曆與日記系統的設計與功能開發，包含年月選擇器、切換年月、回到當天日期等基本操作
+  - 實作行程、日記新增、修改、刪除等CRUD操作
+  - 整合產檢行程與行事曆功能
+  - 實作日記圖片上傳功能，並整合Cloudinary進行圖片儲存與管理
+
+- **前端功能與介面整合**
+  - 負責首頁行事曆與「孕育時光表」專區的連動
+  - 統一兩個功能的操作方式與呈現內容
+  - 負責通知畫面設計與部分通知功能實作，例如衛教閱讀提醒
+
+- **後端與資料庫開發**
+  - MySQL資料庫建置與相關資料表設計
+  - 建立RESTful API，進行前後端資料串接與整合
+  - 建置JWT驗證機制，並協助登入流程整合
+***
 ## 專題成果
+
+***
 ## 未來展望
-## License
+- 孕育時光表連動手機行事曆(如iOS 行事曆、Google日歷)，希望使用者不需要反覆切換平台查看產檢行程或是原有生活日程。
+- 提供媽媽點選記錄身體狀況，如害喜、頭暈、胎動、抽筋等（如iPhone 健康App），希望未來媽媽回診時，醫師能快速參考這些資料。
+- 新增健康食譜專區，以討論區形式，有官方提供之食譜文章，並提供使用者分享健康食譜。
+- 新增聊天機器人，即時回答使用者對於衛教資訊內容的疑問，希望減輕使用者的搜尋時間或是焦慮的狀況。
+***
+## 聲明
+This project is for academic purposes.
